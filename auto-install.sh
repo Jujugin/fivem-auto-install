@@ -13,6 +13,7 @@ echo -e "\e[36mOn installe les dépendance\e[0m"
 apt install xz-utils
 apt install git
 apt install wget
+apt install cat
 
 echo -e "\e[36mOn installe mysql, apache2, phpmyadmin\e[0m"
 sleep 3
