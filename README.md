@@ -17,6 +17,6 @@
 
 
 
+<img src="https://discordapp.com/api/guilds/848236715961352242/widget.png?style=shield" alt="Discord Shield"/>
 
-![Discord Banner 2](https://discordapp.com/api/guilds/848236715961352242/widget.png?style=banner2)
 
