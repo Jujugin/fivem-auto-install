@@ -130,6 +130,10 @@ sv_licenseKey $LICENSEKEY
 # Par Jujugin
 # https://github.com/Jujugin/fivem-auto-install
 
+# Thanks for using the automatic installer !
+# By Jujugin  
+# https://github.com/Jujugin/fivem-auto-install
+
 EOT
 
 echo -e "\e[92mOn a finis d'écrire !\e[0m"
