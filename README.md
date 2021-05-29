@@ -10,7 +10,7 @@
 
 # Launch
 
-```su root```
+```su root```\n
 ```bash auto-install.sh``` 
 
 
