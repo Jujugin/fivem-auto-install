@@ -17,6 +17,6 @@
 
 
 
-<img href="https://discord.gg/dkd" src="https://discordapp.com/api/guilds/848236715961352242/widget.png?style=shield" alt="Discord Shield"/>
+<a href="https://discord.gg/dkd"><img  src="https://discordapp.com/api/guilds/848236715961352242/widget.png?style=shield" alt="Discord Shield"/></a>
 
 
