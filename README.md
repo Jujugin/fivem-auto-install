@@ -17,6 +17,10 @@
 ```su root```<br/>
 ```bash auto-install.sh``` 
 
+# Screenshot
+
+
+
 
 
 
