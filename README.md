@@ -17,6 +17,6 @@
 
 
 
-<a href="https://discord.gg/8kecDPvAAx"><img src="discordapp.com/api/guilds/848236715961352242/widget.png?style=banner2" /></a>
+<a href="https://discord.gg/8kecDPvAAx"><img src="https://discordapp.com/api/guilds/848236715961352242/widget.png" /></a>
 
 
