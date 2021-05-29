@@ -7,6 +7,8 @@
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Jujugin/fivem-auto-install/total">
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/Jujugin/fivem-auto-install/archive/HEAD.zip" data-icon="octicon-download" aria-label="Download Jujugin/fivem-auto-install on GitHub">Download</a>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 # Download
 
